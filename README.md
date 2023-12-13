@@ -6,7 +6,7 @@ React / Tailwindcss
 <br/>
 Nextjs / Postgresql 
 <br />
-Cooking edible things 🥘
+Cooking edible things 🍚
 
 ### About
 During the COVID-19 pandemic, I unexpectedly found myself with more free time, so I decided to learn Japanese. To facilitate this, I used [jpdb](https://jpdb.io/) to search for anime suitable to beginners. From his point on I was hooked with web-development. The notion of having a tool accessible to anyone, independent of operating systems or the need for cumbersome installations, felt empowering.
