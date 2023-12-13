@@ -1,16 +1,21 @@
-### Hi there 👋
+# Gustavo Sasaki 🛠️
 
-<!--
-**GustavoSasaki/GustavoSasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web-development
+<br/>
+React / Tailwindcss 
+<br/>
+Nextjs / Postgresql 
+<br />
+Cooking edible things 🥘
 
-Here are some ideas to get you started:
+### About
+During the COVID-19 pandemic, I unexpectedly found myself with more free time, so I decided to learn Japanese. To facilitate this, I used [jpdb](https://jpdb.io/) to search for anime suitable to beginners. From his point on I was hooked with web-development. The notion of having a tool accessible to anyone, independent of operating systems or the need for cumbersome installations, felt empowering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am improving my skills in full-stack, from design and front-end to back-end and database management. [GameHongo](https://gamehongo.com/) is my latest project, a website dedicated to helping users discover games and YouTube channels tailored to their Japanese proficiency level, as well as providing a platform to share their experiences with these resources.
+
+### Contact
+Website: https://www.gustavosasaki.com/
+
+Email: trabgsr@gmail.com
+
+Linkedin: https://www.linkedin.com/in/gustavosasaki/
